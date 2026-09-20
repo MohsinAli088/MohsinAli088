@@ -1,17 +1,36 @@
 <div align="center">
 
-<!-- Minimalist Aesthetic Glowing Header -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=E0F2FE&text=mohsin&fontSize=76&fontAlignY=45&desc=crafting%20in%20the%20dark%20%E2%9C%A7%20systems%20that%20feel%20alive&descSize=14&descAlignY=68&descColor=7DD3FC88" width="100%" />
+<!-- 3D Holographic Cyber Header -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=05070d&text=MOHSIN.EXE&fontSize=68&fontColor=7dd3fc&fontAlignY=48&desc=3D%20GRAPHICS%20%2F%2F%20DISCORD%20SYSTEMS%20%2F%2F%20FULL-STACK&descSize=14&descAlignY=70&descColor=e0f2fe&stroke=38bdf8&strokeWidth=2" width="100%" />
 
 <br/>
 
-<!-- Chill Typing Prompt -->
+<!-- Real-time Animated HUD Terminal -->
 <a href="https://github.com/MohsinAli088">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=4000&pause=1500&color=7DD3FC99&center=true&vCenter=true&width=550&lines=%E2%80%94+night-owl+developer+%26+bot+architect;%E2%80%94+building+clean+interfaces+%26+3D+motion;%E2%80%94+turning+midnight+thoughts+into+code" alt="chill vibes" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=CORE%3A%2F%2F+INITIALIZING+NEURAL+DECK...;SYS%3A%2F%2F+DISCORD.JS+SYSTEMS+ARCHITECT;WEB%3A%2F%2F+THREE.JS+CREATIVE+3D+ENGINEER;CODEX%3A%2F%2F+FOUNDER+%40+CODEX+DEVELOPMENT" alt="Terminal" />
 </a>
 
 <br/><br/>
 
+<!-- 3D Interactive Floating Tech Dock (Official Logos) -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,threejs,tailwind,nodejs,express,mongodb,python,git,github,vite,vscode&theme=dark&perline=14" />
+  </a>
+</p>
+
 </div>
 
-> *“Simplicity is the soul of modern craft.”*
+---
+
+### `// 01. CORE ARCHITECTURE`
+
+```typescript
+interface DeveloperCore {
+  alias: "Mohsin.Exe";
+  origin: "MohsinAli088";
+  division: "CodeX Development";
+  engine: ["Three.js", "React", "Node.js", "Discord.js", "TypeScript"];
+  architecture: "Event-Driven Distributed Discord Clusters & 3D WebGL";
+  status: "ONLINE // OPTIMAL";
+}
