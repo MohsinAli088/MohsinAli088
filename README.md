@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 3D Holographic Cyber Header -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=05070d&text=MOHSIN.EXE&fontSize=70&fontColor=7dd3fc&fontAlignY=48&desc=SYSTEMS%20ARCHITECT%20%2F%2F%20DISCORD%20AUTOMATION%20%2F%2F%20CREATIVE%203D&descSize=14&descAlignY=70&descColor=e0f2fe&stroke=38bdf8&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=05070d&text=MOHSIN&fontSize=70&fontColor=7dd3fc&fontAlignY=48&desc=SYSTEMS%20ARCHITECT%20%2F%2F%20DISCORD%20AUTOMATION%20%2F%2F%20CREATIVE%203D&descSize=14&descAlignY=70&descColor=e0f2fe&stroke=38bdf8&strokeWidth=2" width="100%" />
 
 <br/>
 
